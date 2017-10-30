@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\preston\documents\visual studio 2015\projects\mouse_project\mouse_project\main.cpp(12): error C2065: 'cin': undeclared identifier
+c:\users\preston\documents\visual studio 2015\projects\mouse_project\mouse_project\main.cpp(12): error C2228: left of '.get' must have class/struct/union
+  c:\users\preston\documents\visual studio 2015\projects\mouse_project\mouse_project\main.cpp(12): note: type is 'unknown-type'
